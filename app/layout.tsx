@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Host_Grotesk } from "next/font/google";
+import { Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-const host = Host_Grotesk({
+const host = Geist_Mono({
   variable: "--font-geist-sans",
   subsets: ["latin"],
 });
