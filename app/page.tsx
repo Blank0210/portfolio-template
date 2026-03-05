@@ -1,5 +1,6 @@
 import React from "react";
 import Main from "./components/Main";
+import Particles from "./hooks/particles";
 
 const page = () => {
   return (
